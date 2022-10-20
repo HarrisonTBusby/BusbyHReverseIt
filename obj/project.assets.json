@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\harry\\.nuget\\packages\\": {}
+    "C:\\Users\\jacob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\HBusbyMiniChallenge7\\HBusbyMiniChallenge7.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\BusbyHReverseIt\\HBusbyMiniChallenge7.csproj",
       "projectName": "HBusbyMiniChallenge7",
-      "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\HBusbyMiniChallenge7\\HBusbyMiniChallenge7.csproj",
-      "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\HBusbyMiniChallenge7\\obj\\",
+      "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\BusbyHReverseIt\\HBusbyMiniChallenge7.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\BusbyHReverseIt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
